@@ -6,6 +6,7 @@
 
     <body>
         <div class="container">
+            <h1>My Sample</h1>
             <input type="text" name="me" id="me">
             <button type="button" id="save">Save</button>          
             <p id="remarks">Remarks: None</p>
